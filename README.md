@@ -1,4 +1,3 @@
-# Fran
 # Hey! 👋
 
 I am **Franco** ☕, a professional diagnostic imaging technician now a developer, from **Mendoza, Argentina**.
